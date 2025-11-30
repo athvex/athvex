@@ -19,8 +19,8 @@ is this correct <h1 align="center">Hi 👋, I'm Atharva Kassa</h1>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=athrvk829&amp;show_icons=true&amp;theme=dark&amp;hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrvk829&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
 <div align="center">
