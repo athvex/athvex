@@ -8,7 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 </h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/atharva-kassa-3226b733b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/athrvk829x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/atharvakassa29/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/4tharv.k/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/atharvakassa01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a>
 </p>
