@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 </h3>
 <p align="left">
-<a href="https://leetcode.com/u/athrvk829/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/u/athrv2986x/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/atharvakassa29/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/4tharv.k/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/atharvakassa01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a>
@@ -41,8 +41,8 @@
 </div>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrv2986x&show_icons=true&theme=dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrv2986x&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 
