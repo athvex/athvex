@@ -59,7 +59,7 @@
 ### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="25" height="25"/> LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/athvex?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/athvex22?theme=dark&font=Karma&ext=contest" />
 </p>
 
 ---
