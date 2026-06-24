@@ -133,6 +133,7 @@ contact: atharvakassa01@gmail.com
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-3776AB?style=for-the-badge&logo=fedora&logoColor=white)
 
 </details>
 
